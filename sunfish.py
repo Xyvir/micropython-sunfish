@@ -1,7 +1,7 @@
 import re, sys, time
 from collections import namedtuple
 
-### helper Functions for Micropython compatability
+### helper Functions for Micropython compatibility
 
 import builtins
 
