@@ -1,10 +1,9 @@
-### Functions for Micropython compatability
 import re, sys, time
 from collections import namedtuple
 
-# count from itertools
-import builtins
+### helper Functions for Micropython compatability
 
+import builtins
 
 def count(start=0, step=1):
     while True:
